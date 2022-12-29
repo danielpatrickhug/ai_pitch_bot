@@ -2,7 +2,7 @@
 const GPT_3_API_KEY = "";
 
 
-///"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";
+
 
 // Set the base URL for the GPT-3 API
 const GPT_3_API_URL = "https://api.openai.com/v1/completions";
